@@ -1,7 +1,0 @@
-www.nlp.fantasyligasuper.com {
-    redir https://nlp.fantasyligasuper.com{uri}
-}
-
-nlp.fantasyligasuper.com {
-    reverse_proxy localhost:8000
-}
