@@ -1,0 +1,13 @@
+cffi==1.15.1
+click==8.1.3
+colorama==0.4.6
+cryptography==3.4.8
+Flask==2.2.3
+google-pay-token-decryption==0.1.0
+gunicorn==21.2.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.2
+packaging==23.2
+pycparser==2.21
+Werkzeug==2.2.3
